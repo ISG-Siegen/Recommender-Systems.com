@@ -1,6 +1,3 @@
-Demo of 'Your-Project.Recommender-Systems.com'
+This is a demo page for our subdomain service https://your-project.recommender-systems.com/. 
 
-At least for now, this is only a demo page to illustrate our free subdomain service [Your-Project.Recommender-Systems.com](https://Your-Project.Recommender-Systems.com). For selected projects, we offer a free sub-domain that can be used as a custom domain for GitHub pages. This recommender-systems.com subdomain can be used instead of the original GitHub URL. For instance, the original URL of the page you are currently looking at is [https://isg-siegen.github.io/Recommender-Systems.com]. But, thanks to custom domains the actual domain now is https://code.recommender-systems.com.
-
-
-If you want your own recommender-systems.com subdomain, continue read here: https://Your-Project.Recommender-Systems.com
+The page you are currently looking at is hosted by GitHub Pages. Thanks to our subdomain service, the GitHub Web Site has the URL https://github-test.recommender-systems.com/. You could register your own subdomain $yourProject.recommender-systems.com and use it as a custom Domain with your GitHub Website.
